@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\demo\\WeYueReader-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hongfu\\.gradle\\caches\\transforms-1\\files-1.1\\commons-0.9.0.2.aar\\55b7f33576f6388f39a7960c41542172\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "580",
+                        "endColumns": "58",
+                        "endOffsets": "634"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hongfu\\.gradle\\caches\\transforms-1\\files-1.1\\lib_crop-1.0.0.aar\\a5b2d897b59bdcfccae601acf3f297d3\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endColumns": "47",
+                        "endOffsets": "575"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hongfu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c2df88930b4d470c04a240048dec99d\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,639,743",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,738,854"
+                    }
+                }
+            ]
+        }
+    ]
+}

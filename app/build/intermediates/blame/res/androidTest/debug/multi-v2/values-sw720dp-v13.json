@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\demo\\WeYueReader-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hongfu\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\4a6ee62e74c802df5b8e2f14f0401f40\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

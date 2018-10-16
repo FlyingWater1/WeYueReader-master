@@ -1,0 +1,4 @@
+#Tue Oct 16 15:11:34 CST 2018
+base.0=D\:\\demo\\WeYueReader-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
